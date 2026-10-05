@@ -1,0 +1,13 @@
+{
+  "name": "HalfLifeBSP",
+  "displayName": "Half-Life BSP Loader",
+  "version": "1.0.0",
+  "author": "Elintria",
+  "description": "Loads Half-Life 1 maps (.bsp) into Elintria scenes: brush geometry with lightmaps, WAD textures, monsters and items with their animations, sounds and sentences, AI node graphs, triggers, doors, trains, scripted sequences and multi_managers that run in Play mode, and level changes behind a loading screen. Adds the BSPLoader window and detailed gizmos for entity connections.",
+  "website": "https://github.com/Trexioas/ElintriaGameEngine",
+  "readme": "README.md",
+
+  "csharp": ["csharp"],
+
+  "editorFeature": "halflife"
+}

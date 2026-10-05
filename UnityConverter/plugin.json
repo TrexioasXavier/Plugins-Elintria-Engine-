@@ -1,0 +1,13 @@
+{
+  "name": "UnityConverter",
+  "displayName": "Unity Converter",
+  "version": "1.3.0",
+  "author": "Elintria",
+  "description": "Imports a Unity project. Converts C# scripts to run in Elintria, turns .unity scenes into Elintria scenes, and brings across textures, models, audio and materials. Adds the Unity Importer window and a UnityEngine compatibility layer your converted scripts compile against.",
+  "website": "https://github.com/Trexioas/UnityConverter",
+  "readme": "README.md",
+
+  "csharp": ["csharp"],
+
+  "editorFeature": "unityimport"
+}
